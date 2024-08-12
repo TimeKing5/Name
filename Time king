@@ -1,0 +1,5 @@
+$ git config -- global user.name "Time King"
+$ git config -- global user.name "Time King"
+$ git config -- global user.name "t6250463@gmail.com"
+  git config -- global --list
+$ git config -- global core. "code.wait"
